@@ -6,8 +6,8 @@
 
 #### 使用前
 
-![before](./before.png)
+![before](/before.png)
 
 #### 使用后
 
-![after](./after.png)
+![after](/after.png)
