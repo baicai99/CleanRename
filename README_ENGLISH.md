@@ -2,7 +2,7 @@
 
 Explanation: This project is to better manage the file directory, can automatically: () space, (--) Chinese dash, English bar (-) replaced with English underscore (_).
 
-[English](./README) | [ENLGLISH](./README_ENGLISH)
+[中文](./README) | [ENLGLISH](./README_ENGLISH)
 
 #### before use
 
