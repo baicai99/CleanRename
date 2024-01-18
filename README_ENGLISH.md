@@ -4,10 +4,10 @@ Explanation: This project is to better manage the file directory, can automatica
 
 [English](./README) | [ENLGLISH](./README_ENGLISH)
 
-#### Before use
+#### before use
 
-! [before](./before.png)
+![before](./before.png)
 
 #### after use
 
-! [after](./after.png)
+![after](./after.png)
