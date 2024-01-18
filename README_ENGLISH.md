@@ -1,13 +1,13 @@
-# 下划线重命名
+# Underline rename
 
-解释：该项目是为了更好管理文件的目录，能够自动的把：（ ）空格、（——）中文破折号、英语横杠（-）替换成英语下划线（_）。
+Explanation: This project is to better manage the file directory, can automatically: () space, (--) Chinese dash, English bar (-) replaced with English underscore (_).
 
-[中文](./README) | [ENLGLISH](./README_ENGLISH)
+[English](./README) | [ENLGLISH](./README_ENGLISH)
 
-#### 试用前
+#### Before use
 
-![before](./before.png)
+! [before](./before.png)
 
-#### 使用后
+#### after use
 
-![after](./after.png)
+! [after](./after.png)

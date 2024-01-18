@@ -4,7 +4,7 @@
 
 [中文](./README) | [ENLGLISH](./README_ENGLISH)
 
-#### 试用前
+#### 使用前
 
 ![before](./before.png)
 
